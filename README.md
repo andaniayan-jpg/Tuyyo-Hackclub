@@ -7,19 +7,19 @@
 ## Build Instructions
 
 1. Download or clone this repository.
-2. Open the KiCad project from the `pcb/` folder.
+2. Open the KiCad project from the `PCB/` folder.
 3. Review the schematic and PCB layout.
 4. Generate or use the included Gerber files for PCB manufacturing.
 5. Order the components listed in `BOM.csv`.
 6. Assemble the PCB by soldering the ESP32-S3, microphone, amplifier, USB-C, charger, regulator, resistors, capacitors, LED, buttons, and connectors.
 7. Place the assembled PCB inside the 3D printed enclosure.
-8. Upload the firmware from `firmware/tuyo_firmware/tuyo_firmware.ino`.
+8. Upload the firmware from `Firmware/tuyo_firmware.ino`.
 9. Connect the external AI processing system for speech-to-text, AI response generation, and text-to-speech.
 10. Power the device using USB-C or a LiPo battery.
 
 ## PCB and Schematic
 
-The PCB was designed in KiCad. The `pcb/` folder includes the schematic, PCB layout, and manufacturing files.
+The PCB was designed in KiCad. The `PCB/` folder includes the schematic, PCB layout, and manufacturing files.
 
 ## Firmware and AI Integration
 
