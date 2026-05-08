@@ -2,7 +2,8 @@
 
 **TUYO is a compact, AI-powered voice assistant speaker that was designed and built completely from scratch. It combines custom embedded hardware with modern AI to create a portable assistant that can listen, process speech, and respond in real time.**
 
-<img width="1754" height="2480" alt="imresizer-trical p (1)" src="https://github.com/user-attachments/assets/eb16d0d7-c215-4762-9ab2-94db74bcbbb2" />
+<img width="1754" height="2480" alt="imresizer-trical p (1)" src="https://github.com/user-attachments/assets/4b3a1ad5-baac-4630-a411-e30323f6602a" />
+
 
 
 # How to use it
