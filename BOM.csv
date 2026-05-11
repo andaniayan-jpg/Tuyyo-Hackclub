@@ -1,0 +1,20 @@
+Item,Quantity,Purpose,Source,Link
+3.7V Li-ion,1,Battery for the model,ELECTRONICSPICES,https://electronicspices.com/product/500mah-3-7v-single-cell-rechargeable-lipo-battery-hcy-602030
+ESP32-S3-WROOM-1,1,MCU,Espressif,https://www.espressif.com/en/module/esp32-s3-wroom-1-en
+(Microphone)ICS-43434 I2S MEMS microphone,1,Audio,Adafruit,https://www.adafruit.com/product/6049
+MAX98357A I2S audio amplifier IC,1,Audio output,LCSC,https://www.lcsc.com/product-detail/C910544.html
+TP4056-42-ESOP8 Li-ion charger IC ,1,Charging,LCSC,https://www.lcsc.com/product-detail/C16581.html
+CH340C USB to serial IC SOIC-16 ,1,USB to UART,Quartz Components,https://quartzcomponents.com/products/ch340c-usb-to-serial-ttl-converter-ic-smd-package
+AMS1117-3.3 SOT-223 voltage regulator,1,Voltage regulate ,LCSC,https://www.lcsc.com/product-detail/C6186.html
+USB-C receptacle,1,USB C PORT,LCSC,https://www.lcsc.com/product-detail/C2894897.html
+Connector 1x02,2,Connector,KiCad footprint reference,https://kicad.github.io/footprints/Connector_PinHeader_1.00mm.html
+Speaker,1,Speaker,ELECTRONICSPICES,https://electronicspices.com/product/2-inch-4%CF%89-ohm-5w-metal-body-power-audio-woofer-speaker-round-shape
+LED,1,RGB LED,SparkFun datasheet,https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf
+Type 1 resistor,2,Resistors,LCSC,https://www.lcsc.com/product-detail/C269748.html
+Type 2 resistors,2,Resistors,LCSC,https://www.lcsc.com/product-detail/C115309.html
+Type 3 resistors,1,Resistors,Quartz Components,https://quartzcomponents.com/products/1-2k-ohm-1k2-5-smd-resistor-0805-pack-of-20-pieces
+Type 4 resistrors,1,Resistors,LCSC,https://www.lcsc.com/product-detail/C2479639.html
+Capacitors,8,Capacitors,LCSC,https://www.lcsc.com/product-detail/C38141.html
+Push buttons,3,Controlls,Amazon India,https://www.amazon.in/6X6X4-3mm-MICRO-SWITCH-Tactile-Button/dp/B0CK651LD1
+Ferrite bead,1,Ferrite bead,Fair-Rite official,https://fair-rite.com/product/chip-beads-2508056017y2/
+PCB,1,PCB,JLCPCB / GitHub Gerbers,https://github.com/andaniayan-jpg/Tuyyo-Hackclub/blob/12cad96ed76dfa4e5342a210ed5bca2d6a44b040/pcb/Tuyyo%20all%20the%20gerbers.zip
