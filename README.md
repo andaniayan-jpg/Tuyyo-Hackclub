@@ -104,3 +104,6 @@ The interaction is designed to feel natural, similar to existing voice assistant
 
 <img width="802" height="598" alt="image" src="https://github.com/user-attachments/assets/a0d0e7c2-f468-4106-bc9b-6969c333d9e0" />
 
+Visit this BOM file for component list- "https://github.com/andaniayan-jpg/Tuyyo-Hackclub/blob/12cad96ed76dfa4e5342a210ed5bca2d6a44b040/pcb/Tuyyo%20all%20the%20gerbers.zip"
+
+
